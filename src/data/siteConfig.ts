@@ -42,13 +42,13 @@ export const businessInfo: SiteConfig = {
   tagline: 'Creating beautiful moments, one event at a time.',
   description:
     'From unforgettable celebrations to beautifully styled events, Shingie Events Services and Lifestyle brings your vision to life through professional planning, décor, catering, and cakes.',
-  phone: '[Phone Number]',
-  whatsapp: '[WhatsApp Number]',
-  email: '[Email Address]',
+  phone: '+263785654426',
+  whatsapp: '+263785654426',
+  email: 'shingieallan75@gmail.com',
   location: '[Event Location]',
   payment: {
     methods: ['Cash', 'EcoCash'],
-    ecoCash: '[EcoCash Number]',
+    ecoCash: '0785654426',
   },
   social: {
     instagram: '#',
