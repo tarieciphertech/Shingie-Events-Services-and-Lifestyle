@@ -1,0 +1,16 @@
+{
+  "name": "Shingie Events Services and Lifestyle",
+  "short_name": "Shingie Events",
+  "description": "Elegant event planning, décor, catering and cakes.",
+  "icons": [
+    {
+      "src": "/favicon.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#7B1320",
+  "background_color": "#F6EFE7"
+}
